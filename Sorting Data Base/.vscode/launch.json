@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/gusortzep/Documents/Tec/Uni/3/Algoritmos/Actividad 1.3",
+      "program": "/Users/gusortzep/Documents/Tec/Uni/3/Algoritmos/Actividad 1.3/build/Debug/outDebug"
+    }
+  ]
+}

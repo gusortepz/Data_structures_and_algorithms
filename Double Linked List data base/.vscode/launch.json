@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/gusortzep/Documents/Tec/Uni/3/Algoritmos/Double Linked List data base",
+      "program": "/Users/gusortzep/Documents/Tec/Uni/3/Algoritmos/Double Linked List data base/build/Debug/outDebug"
+    }
+  ]
+}
